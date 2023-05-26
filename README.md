@@ -9,6 +9,21 @@
 - 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@olgagradskaya-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/mwlite/in/ольга-градская-1a6142265) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:platina93@bk.ru)
 
 ---
+### 📖 Тестовые артефакты:
+
+<div id="homeworks">
+  <h4>Домашние задания:</h4>
+    <ul>
+      <li><a href="https://github.com/OlgaGradskaya/Homework_test_documentation" target="_blank">Тестовая документация<a></li>
+      <li><a href="https://github.com/OlgaGradskaya/Homework_web_application_testing" target="_blank">Тестирование веб-приложений<a></li>
+      <li><a href="https://github.com/OlgaGradskaya/Homework_GitBash" target="_blank">Git/GitBash<a></li>
+      <li><a href="https://github.com/OlgaGradskaya/Homework_db_testing" target="_blank">Тестирование баз данных<a></li>
+      <li><a href="https://github.com/OlgaGradskaya/homework_API_testing_postman" target="_blank">Тестирование API<a></li>
+      <li><a href="https://github.com/OlgaGradskaya/Homework_mobile_testing" target="_blank">Тестирование мобильного приложения<a></li>
+    </ul>
+ </div>
+
+---
 
 ### 🤝 Социальные сети:
 
